@@ -1,0 +1,10 @@
+{
+  "name": "scraper",
+  "version": "0.0.1",
+  "author": "Feilding Cage <feilding.cage@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "~2.0.28",
+    "twitter": "~1.2.5"
+  }
+}
